@@ -527,6 +527,8 @@ https://github.com/Sweety555514/Pizza-Sales-Analysis-SQL-PowerBI/blob/main/Pizza
 
 All SQL queries used for this project are available in:
 
+https://github.com/Sweety555514/Pizza-Sales-Analysis-SQL-PowerBI/blob/main/Pizza_Sales.sql
+
 
 The SQL file contains queries for:
 
@@ -541,25 +543,11 @@ The SQL file contains queries for:
 * Top-performing pizzas
 * Low-performing pizzas
 
----
-
-# 📊 Power BI File
-
-The complete Power BI dashboard is available in:
-
-```text
-PowerBI/Pizza_Sales_Dashboard.pbix
-```
-
-The dashboard can be opened in **Microsoft Power BI Desktop**.
-
----
 
 # 🎯 Skills Demonstrated
 
 This project demonstrates practical skills in:
 
-* SQL
 * MySQL
 * Data Cleaning
 * Data Transformation
@@ -594,5 +582,5 @@ Overall, this project demonstrates how **SQL and Power BI can be used together t
 
 Aspiring Data Analyst | SQL | Power BI | Advanced Excel | DAX
 
-GitHub:
-`https://github.com/Sweety555514`
+Linkedin:
+www.linkedin.com/in/sweety-sinha-8a91622b3
