@@ -519,6 +519,7 @@ Use daily and monthly order patterns to better plan staff, ingredients, and prod
 
 The Power BI dashboard provides an interactive view of the pizza sales analysis, including KPIs, sales trends, category performance, size analysis, and top/bottom-performing pizzas.
 
+https://github.com/Sweety555514/Pizza-Sales-Analysis-SQL-PowerBI/blob/main/Pizza_Sales_Dashboard.pbix
 
 ---
 
@@ -526,9 +527,6 @@ The Power BI dashboard provides an interactive view of the pizza sales analysis,
 
 All SQL queries used for this project are available in:
 
-```text
-SQL/Pizza_Sales_Analysis.sql
-```
 
 The SQL file contains queries for:
 
